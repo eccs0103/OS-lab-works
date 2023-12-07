@@ -1,1 +1,0 @@
-sed -i '2d;4d' file4_modified.txt
