@@ -12,10 +12,11 @@
 
 ## Feed
 
-### Update 1-5 (09.12.2023)
+### Update 1-6 (09.12.2023)
 - lab3
 - lab4
 - lab5
+- lab6
 
 ### Update 1-2 (02.12.2023)
 - lab1
