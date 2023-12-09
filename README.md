@@ -2,13 +2,13 @@
 
 ## Information
 
-University: Yerevan State University,\
-Faculty: Informatics and Applied Mathematics,\
-Department: Informatics and Computer Science,\
-Course: 2,\
-Group: 210,\
-Student: Arman Sargsyan,\
-Subject: Operating Systems,
+**University**: Yerevan State University\
+**Faculty**: Informatics and Applied Mathematics\
+**Department**: Informatics and Computer Science\
+**Course**: 2\
+**Group**: 210\
+**Student**: Arman Sargsyan\
+**Subject**: Operating Systems
 
 ## Feed
 
